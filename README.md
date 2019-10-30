@@ -1,4 +1,4 @@
-# observer-pattern
+# Observer design pattern
 
 ## What is observer pattern ?
 
